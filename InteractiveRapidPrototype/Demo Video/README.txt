@@ -1,0 +1,1 @@
+Software used to create demo video, Adobe Captivate 8

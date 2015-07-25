@@ -1,0 +1,9 @@
+Please read these sections of "Designing Interactive Systems" by David Benyon by the date indicated in brackets:
+Chapter 1 (Sept 9)
+Chapters 2-3 (Sept 12)
+Chapters 21, 22, 23 (Sept 16) 
+Chapter 25 (Sept 19)
+Chapter 7 (Sept 30)
+Chapter 3 (Oct 3)
+Section 11.1-11.3 (Oct 9)
+Chapter 12-13 (Oct 14)
